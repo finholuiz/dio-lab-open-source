@@ -1,0 +1,3 @@
+Para criar um agente Copilot na Power Platform, você precisa primeiro escolher o ambiente correto, pois tudo o que for desenvolvido (fluxos, tabelas, configurações e o próprio agente) ficará salvo nele. É importante separar ambientes de desenvolvimento, teste e produção, garantindo organização e segurança no ciclo de vida do agente.
+
+Durante a criação, você define o nome, idioma e o objetivo do agente. Embora seja possível configurá-lo em português, recomenda-se usar inglês, já que a plataforma é otimizada para esse idioma e os recursos ficam mais completos. No entanto, nada impede que você trabalhe em português se for mais adequado ao seu público.
